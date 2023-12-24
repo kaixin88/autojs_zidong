@@ -6,7 +6,10 @@
 ### 2、任务APP自动完成任务。
 ### 3、短视频刷视频赚钱。
 
-### 使用教程：https://blog.csdn.net/keyiis_sh/article/details/124266006，除了这几个权限，一般都设置中去开启 以下权限：电池忽略优化、后台弹窗打开、修改系统设置、常驻后台、悬浮窗。
+### AUTO.JS初次使用教程：https://blog.csdn.net/keyiis_sh/article/details/124266006
+### 除了教程中的权限，设置中去开启以下权限：电池忽略优化、后台弹窗打开、修改系统设置、常驻后台、悬浮窗。
+### 把脚本导入或者发送到手机后，使用定时任务来执行，即可每天自动化薅羊毛。
+### 推荐下载auto.js 4.1.1，或修改版的auto.js（困鱼，注意设置：使用alarmmanager调度任务）：https://www.123pan.com/s/TSX7Vv-D9FO.html
 
 
 
